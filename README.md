@@ -3,7 +3,7 @@
 A lightweight 🚀 Spring Boot REST API for managing tasks. Supports full CRUD operations without using a database.
 
 ---
-
+  
 ## 🔥 Features
 
 * ➕ Add a new task
